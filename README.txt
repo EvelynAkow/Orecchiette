@@ -1,4 +1,4 @@
-[![solarized dualmode]()](#features)
+[![solarized dualmode](https://github.com/EvelynAkow/Orecchiette/blob/main/images/website.png)](#features)
 
 
 Strongly Typed by HTML5 UP
