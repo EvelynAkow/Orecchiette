@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/EvelynAkow/Orecchiette/blob/main/images/website.png)
+![alt text](https://github.com/EvelynAkow/Orecchiette/blob/main/images/website.png?raw=true)
 
 Orecchiette
 This is an Italian Restaurants Website, That provides the backstory of the restaurant and contact information also includes a contact form for inquiries for reservations!
